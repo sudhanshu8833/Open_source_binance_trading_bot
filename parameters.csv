@@ -1,0 +1,14 @@
+parameters,value
+binance_api_key,
+binance_api_secret_key,
+stop_loss_precentage,4
+atr_trailing,2
+atr_trailing_multiplier,8
+atr_fixed,11
+atr_fixed_multiplier,2
+symbol_binance,ETHUSDT
+binance_X,1
+time_frame,1m
+X_bars_high,100
+X_bars_low,87
+bot,on
